@@ -90,15 +90,6 @@ body{
 }
 .footer{
     padding-top: 7em;
-}
-#spaceRight{
-    margin-right: 13em;
-}
-#spaceLeft{
-    margin-left: 13em;
-}
-#middle{
-    display: block;
     text-align: center;
 }
 #space{

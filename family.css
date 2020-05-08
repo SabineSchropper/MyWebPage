@@ -57,7 +57,6 @@ a:hover{
 .italic{
     font-style: italic;
 }
-
 .intro{
     padding-top: 1em;
     padding-bottom: 2em;
@@ -69,6 +68,7 @@ a:hover{
 }
 .footer{
     padding-top: 7em;
+    text-align: center;
 }
 
 table{
@@ -92,21 +92,8 @@ th,td {
     width: 250px;
     margin-left: auto;
     margin-right:auto;
-    text-align: left;
-    ;
-    
-   
+    text-align: left;  
 }
 #space{
     margin-right: 3em ;
-}
-#spaceRight{
-    margin-right: 13em;
-}
-#spaceLeft{
-    margin-left: 13em;
-}
-#middle{
-    display: block;
-    text-align: center;
 }
